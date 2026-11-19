@@ -610,7 +610,8 @@ function App() {
           <span className="footer-credit">
             Built for learning.
           </span>
-        </footer>
+        </footer>  
+        
       </main>
     </div>
   );
